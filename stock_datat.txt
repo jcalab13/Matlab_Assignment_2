@@ -1,0 +1,37 @@
+% Author Name: Joseph Calabria
+% Email: calabr65@rowan.edu
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: Population Growth Analysis
+% Date: 10/11/2024
+
+5.99
+6.01
+6.23
+6.54
+6.78
+6.98
+7.21
+5.01
+4.93
+4.87
+4.65
+4.44
+4.23
+4.12
+4.00
+4.56
+4.79
+5.04
+5.32
+5.01
+5.55
+5.68
+5.79
+5.81
+5.95
+6.21
+6.34
+6.39
+6.56
+6.84
