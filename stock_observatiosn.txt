@@ -1,0 +1,12 @@
+% Author Name: Joseph Calabria
+% Email: calabr65@rowan.edu
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: Population Growth Analysis
+% Date: 10/11/2024
+
+    The stock price starts at around $6 and quickly climbs to slightly 
+above $7 by around day 7. The stock then crashes to about $5 and continues 
+to falls until it reaches $4 at day 15. The price then rises quite quickly 
+until day 19. After day 19 it falls again to around $5 but only for one 
+day. After day 20 the stock slowly climbs back up to nearly $7.
